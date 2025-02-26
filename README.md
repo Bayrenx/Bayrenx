@@ -115,13 +115,6 @@
   </p>
 </details>
 
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Bayrenx"></a>
-  <br/>
-
 </details>
 
 <br/>
