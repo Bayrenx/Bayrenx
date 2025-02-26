@@ -6,7 +6,7 @@
 <hr/>
 <h4 align="center">Soy estudiante de Ingeniería Civil en computación e informática, tercer semestre. Soy un entusiaste de la programación y siempre me encuentro activo aprendiento como mejorar.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="Bayrenx" /> </p>
+
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bayrenx&theme=algolia" alt="Bayrenx"  /></p>
