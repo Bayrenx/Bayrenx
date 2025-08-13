@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Ingenieria+Civil+Informatica;Full+Stack+Web+Developer;Siempre%20Aprendiendo%20nuevas%20cosas&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">Soy estudiante de Ingeniería Civil en computación e informática, tercer semestre. Soy un entusiaste de la programación y siempre me encuentro activo aprendiento como mejorar.</h4>
+<h4 align="center">Soy estudiante de Ingeniería Civil en computación e informática, cuarto semestre. Soy un entusiasta de la programación y siempre me encuentro activo aprendiento como mejorar.</h4>
 <br>
 
 
