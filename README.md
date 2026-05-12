@@ -8,7 +8,7 @@
 
 <hr/>
 
-<h4 align="center">Soy estudiante de Ingeniería Civil en computación e informática, cuarto semestre. Soy un entusiasta de la programación y siempre me encuentro activo aprendiendo cómo mejorar.</h4>
+<h4 align="center">Soy estudiante de Ingeniería Civil en computación e informática, quinto semestre. Soy un entusiasta de la programación y siempre me encuentro activo aprendiendo cómo mejorar.</h4>
 
 <br>
 
