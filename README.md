@@ -2,7 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingenieria+Civil+Informatica;Full+Stack+Web+Developer;Siempre%20Aprendiendo%20nuevas%20cosas&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingenieria+Civil+Informatica;Interesado en Ciberseguridad y Sistemas Embebidos
+;Buscando Práctica Profesional 2026&center=true&width=500&height=50">
   </a>
 </p>
 
